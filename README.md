@@ -1,37 +1,46 @@
 # Hi, I'm Pulkit 👋
 
-📍 Jaipur, India | 🛠️ Full Stack Developer & Designer | 🧠 Entrepreneur & Product Thinker
+📍 Jaipur, India | 🤖 Building AI Agents & RAG Systems | 🚀 Full Stack Engineer
 
-Building products at the intersection of **engineering and user experience**.
-
----
-
-## 🔧 Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+Deep in agentic engineering — building AI systems that automate real developer workflows. From RAG pipelines to autonomous code reviewers, I ship tools that actually work in production.
 
 ---
 
-## 🚀 Current Work
+## 🤖 AI Agents
 
-- 🤖 **[mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** – AI-powered pull request review agent
-- 🌐 **[myWeb](https://github.com/pulkit004/myWeb)** – Personal web app in TypeScript
+- 🔍 **[mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** — Autonomous code reviewer for GitLab & GitHub PRs. Checks changed code against your engineering principles and posts findings back to the review thread. Published on npm.
+- - 🐛 **sentry-fix-agent** *(coming soon)* — Agent that reads Sentry errors and auto-generates fix PRs
+  - - 🧬 **clone-mr-reviewer** *(coming soon)* — Clone your own coding style into a custom MR review agent
+    - - 📈 **ai-seo-automation** *(coming soon)* — AI agent for end-to-end SEO content automation
+     
+      - ---
 
----
+      ## 🧠 RAG & Infrastructure
 
-## 📌 What I'm About
+      - 🏗️ **[rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)** — Production-grade RAG foundation: zero hallucination tolerance, content-hash deduplication, pluggable vector/content stores, cloud-agnostic. Built to extend into SaaS.
+     
+      - ---
 
-- Entrepreneur at heart — ideas → execution, fast
-- User experience obsessed
-- Currently building at **[Setu](https://setu.co)**
+      ## 🛠️ Tech Stack
 
----
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+      ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+      ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+      ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+      ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📫 Connect
+      ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+      ## 📌 What I'm About
+
+      - Building AI agents that solve real engineering problems — not demos
+      - - RAG systems with strict determinism and production-grade architecture
+        - - Currently building at **[@SetuHQ](https://setu.co)**
+          - - Entrepreneur at heart — ideas → execution, fast
+           
+            - ---
+
+            ## 📫 Connect
+
+            [![Website](https://img.shields.io/badge/-pulkitverma.xyz-000?style=flat&logo=vercel&logoColor=white)](https://www.pulkitverma.xyz)
+            [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkitverma)
