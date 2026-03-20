@@ -22,6 +22,19 @@ A cloud-agnostic foundation for RAG systems where "hallucination" is a bug, not 
 
 ---
 
+## 🏗️ Active Builds
+*Personal projects focused on high-signal content and agent orchestration.*
+
+### 🧵 [weaveai.dev](https://weaveai.dev)
+**Agentic Workflow Orchestrator**
+The connective tissue for multi-agent systems. Designed to handle complex, long-running engineering tasks with deterministic execution and state management.
+
+### 📰 [trufeed.app](https://trufeed.app)
+**AI-Native Content Signal Filter**
+Aggregating the technical web without the noise. Uses autonomous agents to surface high-signal content, bypassing traditional algorithmic biases.
+
+---
+
 ## 🛠 Engineering Stack
 
 | Focus | Tools |
