@@ -15,6 +15,7 @@ I build autonomous systems that solve structural bottlenecks in the SDLC. I focu
 * **🔍 [mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** — Autonomous code reviewer (npm). Enforces team-specific principles.
 * **🏗️ [rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)** — Enterprise-grade RAG architecture with zero-hallucination retrieval.
 * **⚡ [seo-engine](https://github.com/pulkit004/seo-engine)** — I/O-agnostic SEO content engine with pluggable LLM and storage adapters.
+* **🥋 [sensei](https://github.com/pulkit004/sensei)** — AI-powered code review CLI for GitLab MRs. Learns your style, reviews like you. ([PyPI](https://pypi.org/project/sensei-review/))
 
 ---
 
