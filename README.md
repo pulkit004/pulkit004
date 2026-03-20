@@ -8,12 +8,13 @@ I build autonomous systems that solve structural bottlenecks in the SDLC. I focu
 ---
 
 #### 🏗️ Active Projects
-* **🧵 [weaveai.dev](https://weaveai.dev)** — AI agents and RAG systems that work in production. We build systems teams can actually rely on.
+* **🧵 [weaveai.dev](https://weaveai.dev)** — AI agents and RAG systems that work in production. We build systems that teams can actually rely on.
 * **📰 [trufeed.app](https://trufeed.app)** — Visual feedback without the friction. Capture screenshots and metadata directly from the browser.
 
 #### 🔧 Engineering & Tooling
 * **🔍 [mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** — Autonomous code reviewer (npm). Enforces team-specific principles.
 * **🏗️ [rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)** — Enterprise-grade RAG architecture with zero-hallucination retrieval.
+* **⚡ [seo-engine](https://github.com/pulkit004/seo-engine)** — I/O-agnostic SEO content engine with pluggable LLM and storage adapters.
 
 ---
 
@@ -28,7 +29,7 @@ I build autonomous systems that solve structural bottlenecks in the SDLC. I focu
 
 #### 📌 Philosophy
 * **Determinism > Randomness:** If an agent is unpredictable, it’s a toy.
-* **Agentic SDLC:** AI's value is in the "middle-ware"—reviewing, fixing, and auditing.
+* **Agentic SDLC:** AI's value is in the "middleware"—reviewing, fixing, and auditing.
 * **Zero-Hallucination:** Data retrieval is an infrastructure challenge, not a prompting one.
 
 ---
