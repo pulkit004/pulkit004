@@ -1,44 +1,44 @@
-# Hi, I'm Pulkit 👋
+# Pulkit Verma
+**AI Engineer | Agentic Systems Architect**
 
-📍 Jaipur, India | 🤖 Building AI Agents & RAG Systems | 🚀 AI Engineer | Senior Front-end 
+📍 Jaipur, India | Currently scaling AI at **[@SetuHQ](https://setu.co)**
 
-Deep in agentic engineering — building AI systems that automate real developer workflows. From RAG pipelines to autonomous code reviewers, I ship tools that actually work in production.
+I don't build wrappers; I build autonomous systems. My focus is on moving AI from simple chat interfaces to **deterministic agentic workflows** that solve structural bottlenecks in the SDLC.
 
 ---
 
-## 🤖 AI Agents
+## 🚀 Shipped & Production-Ready
+*Proven tools for engineering teams.*
 
-      - 🔍 **[mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** — Autonomous code reviewer for GitLab & GitHub PRs. Checks the changed code against your engineering principles and posts findings back to the review thread. Published on npm.
-      - 🐛 **sentry-fix-agent** *(coming soon)* — Agent that reads Sentry errors and auto-generates fix PRs
-      - 🧬 **clone-mr-reviewer** *(coming soon)* — Clone your own coding style into a custom MR review agent
-      - 📈 **ai-seo-automation** *(coming soon)* — AI agent for end-to-end SEO content automation
-           
+### 🔍 [mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)
+**Autonomous Code Reviewer (npm)**
+Standard AI reviewers find syntax errors; this agent enforces **engineering principles**. It evaluates GitHub/GitLab PRs against your team’s specific architectural standards.
+* **Impact:** Drastically reduces PR cycle time by catching non-compliant patterns before the first human review.
 
-## 🧠 RAG & Infrastructure
+### 🏗️ [rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)
+**Enterprise RAG Architecture**
+A cloud-agnostic foundation for RAG systems where "hallucination" is a bug, not a feature.
+* **Key Features:** Content-hash deduplication, pluggable vector stores, and a focus on high-fidelity retrieval.
 
-      - 🏗️ **[rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)** — Production-grade RAG foundation: zero hallucination tolerance, content-hash deduplication, pluggable vector/content stores, cloud-agnostic. Built to extend into SaaS.
-     
-      - ---
+---
 
-      ## 🛠️ Tech Stack
+## 🛠 Engineering Stack
 
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-      ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-      ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-      ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-      ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+| Focus | Tools |
+| :--- | :--- |
+| **Agentic Flow** | LangChain, Custom Agentic Loops, Tool-calling Orchestration |
+| **Data / RAG** | Pinecone, Weaviate, Vector Embeddings, Hybrid Search |
+| **Core Dev** | TypeScript (Expert), Node.js, Python, React |
 
-      ---
+---
 
-      ## 📌 What I'm About
+## 📌 The Manifest (How I Build)
+* **Determinism over Randomness:** If an agent provides a different result every time for a technical task, it’s a toy. I build for consistency.
+* **Agentic SDLC:** AI's greatest value is the "middle-ware" of engineering—reviewing, fixing, and auditing.
+* **Zero-Hallucination RAG:** Data retrieval is an infrastructure challenge, not a prompting challenge.
 
-      - Building AI agents that solve real engineering problems — not demos
-      - RAG systems with strict determinism and production-grade architecture
-      - Currently building at **[@SetuHQ](https://setu.co)**
-      - Entrepreneur at heart — ideas → execution, fast
-           
+---
 
-## 📫 Connect
-
-[![Website](https://img.shields.io/badge/-pulkitverma.xyz-000?style=flat&logo=vercel&logoColor=white)](https://www.pulkitverma.xyz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkitverma)
+## 📡 Connections
+[![Website](https://img.shields.io/badge/pulkitverma.xyz-black?style=flat&logo=linktree&logoColor=white)](https://pulkitverma.xyz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pulkit004/)
