@@ -3,55 +3,43 @@
 
 📍 Jaipur, India | Currently scaling AI at **[@SetuHQ](https://setu.co)**
 
-I don't build wrappers; I build autonomous systems. My focus is on moving AI from simple chat interfaces to **deterministic agentic workflows** that solve structural bottlenecks in the SDLC.
+I build autonomous systems that solve structural bottlenecks in the SDLC. I focus on moving AI beyond chat boxes into **deterministic agentic workflows**.
 
 ---
 
-## 🚀 Shipped & Production-Ready
-*Proven tools for engineering teams.*
+## 🏗️ Active Projects
+*High-signal builds currently in production.*
 
-### 🔍 [mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)
-**Autonomous Code Reviewer (npm)**
-Standard AI reviewers find syntax errors; this agent enforces **engineering principles**. It evaluates GitHub/GitLab PRs against your team’s specific architectural standards.
-* **Impact:** Drastically reduces PR cycle time by catching non-compliant patterns before the first human review.
-
-### 🏗️ [rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)
-**Enterprise RAG Architecture**
-A cloud-agnostic foundation for RAG systems where "hallucination" is a bug, not a feature.
-* **Key Features:** Content-hash deduplication, pluggable vector stores, and a focus on high-fidelity retrieval.
+* 🧵 **[weaveai.dev](https://weaveai.dev)** — AI agents and RAG systems that work in production. Most AI projects stop at demos; we build systems teams can actually rely on.
+* 📰 **[trufeed.app](https://trufeed.app)** — Visual feedback without the friction. Capture screenshots and metadata directly from the browser, using AI to categorize signal from noise.
 
 ---
 
-## 🏗️ Active Builds
-*Personal projects focused on high-signal content and agent orchestration.*
+## 🔧 Engineering & Tooling
+*Infrastructure for agentic workflows and RAG.*
 
-### 🧵 [weaveai.dev](https://weaveai.dev)
-**Agentic Workflow Orchestrator**
-The connective tissue for multi-agent systems. Designed to handle complex, long-running engineering tasks with deterministic execution and state management.
-
-### 📰 [trufeed.app](https://trufeed.app)
-**AI-Native Content Signal Filter**
-Aggregating the technical web without the noise. Uses autonomous agents to surface high-signal content, bypassing traditional algorithmic biases.
+* 🔍 **[mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** — Autonomous code reviewer (npm). Enforces team-specific engineering principles on GitHub/GitLab PRs.
+* 🏗️ **[rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)** — Cloud-agnostic, enterprise-grade RAG architecture. Focuses on content-hash deduplication and zero-hallucination retrieval.
 
 ---
 
-## 🛠 Engineering Stack
+## 🛠 Tech Stack
 
-| Focus | Tools |
+| Category | Tools |
 | :--- | :--- |
-| **Agentic Flow** | LangChain, Custom Agentic Loops, Tool-calling Orchestration |
+| **Agentic AI** | LangChain, Tool-calling Orchestration, Custom Agentic Loops |
 | **Data / RAG** | Pinecone, Weaviate, Vector Embeddings, Hybrid Search |
-| **Core Dev** | TypeScript (Expert), Node.js, Python, React |
+| **Core Dev** | TypeScript, Node.js, Python, React, Next.js |
 
 ---
 
-## 📌 The Manifest (How I Build)
-* **Determinism over Randomness:** If an agent provides a different result every time for a technical task, it’s a toy. I build for consistency.
-* **Agentic SDLC:** AI's greatest value is the "middle-ware" of engineering—reviewing, fixing, and auditing.
-* **Zero-Hallucination RAG:** Data retrieval is an infrastructure challenge, not a prompting challenge.
+## 📌 Philosophy
+* **Determinism > Randomness:** If an agent provides a different result every time for a technical task, it’s a toy. I build for consistency.
+* **Agentic SDLC:** AI's value is the "middle-ware" of engineering—reviewing, fixing, and auditing.
+* **Zero-Hallucination:** Data retrieval is an infrastructure challenge, not a prompting challenge.
 
 ---
 
 ## 📡 Connections
 [![Website](https://img.shields.io/badge/pulkitverma.xyz-black?style=flat&logo=linktree&logoColor=white)](https://pulkitverma.xyz) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pulkitv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pulkit004/)
