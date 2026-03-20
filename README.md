@@ -41,4 +41,4 @@ A cloud-agnostic foundation for RAG systems where "hallucination" is a bug, not 
 
 ## 📡 Connections
 [![Website](https://img.shields.io/badge/pulkitverma.xyz-black?style=flat&logo=linktree&logoColor=white)](https://pulkitverma.xyz) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pulkit004/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pulkitv/)
