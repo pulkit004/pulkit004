@@ -12,6 +12,7 @@ I build autonomous systems that solve structural bottlenecks in the SDLC. I focu
 * **📰 [trufeed.app](https://trufeed.app)** — Visual feedback without the friction. Capture screenshots and metadata directly from the browser.
 
 #### 🔧 Engineering & Tooling
+* **🌿 [branchwise](https://github.com/pulkit004/branchwise)** — Branch-scoped memory for Claude Code. Isolates conversation context per git branch with auto-save. ([npm](https://www.npmjs.com/package/branchwise))
 * **🔍 [mr-principle-review-agent](https://github.com/pulkit004/mr-principle-review-agent)** — Autonomous code reviewer (npm). Enforces team-specific principles.
 * **🏗️ [rag-foundation-stone](https://github.com/pulkit004/rag-foundation-stone)** — Enterprise-grade RAG architecture with zero-hallucination retrieval.
 * **⚡ [seo-engine](https://github.com/pulkit004/seo-engine)** — I/O-agnostic SEO content engine with pluggable LLM and storage adapters.
